@@ -8,7 +8,7 @@
 -   💬 Ask me about anything!
 -   📫 Fun fact: I’ve created my own AI company for schools in the Netherlands.
 
-_Most of my work is private, so you won't see many public commits from me_
+_Most of my work is private, so you won't see many public commits here_
 
   ## 🍵 Buy me a coffee
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Larssies) 
