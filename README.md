@@ -1,8 +1,4 @@
-<a href="/" align="center">
-  <img src="[https://r2.interrupted.me/uploads/ZZCboh7E.png](https://github.com/user-attachments/assets/72700f75-0418-4909-bde4-20da90309a3a)" 
-    align="center"
-    >
-<a/>
+![image (6)](https://github.com/user-attachments/assets/63c62e71-de7c-4aac-9491-6b162e87135f)
 
 <h1 align='center'>Hello! I am Larssies 👋</h1>
 
@@ -14,5 +10,5 @@
 
 _Most of my work is private, so you won't see many public commits from me_
 
-  ## ![image](https://github.com/user-attachments/assets/e2181c91-5bf9-419f-8718-16f39eae5d2a) Buy me a coffee
+  ## 🍵 Buy me a coffee
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Larssies) 
