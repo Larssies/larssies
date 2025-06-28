@@ -3,7 +3,7 @@
 <h1 align='center'>Hello! I am Larssies 👋</h1>
 
 -   🌱 I’m a full stack web developer, specialized in NextJS.
--   🔭 Currently working on **Lurec Network** and **Muffinized**
+-   🔭 Currently working on a whole bunch of projects
 -   💬 Ask me about anything!
 -   📫 Fun fact: I’ve created my own AI company for schools in the Netherlands.
 
